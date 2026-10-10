@@ -1,0 +1,5 @@
+numpy>=1.22.0
+pandas>=1.5.0
+openpyxl>=3.0.0
+matplotlib>=3.6.0
+docplex>=2.25.236
